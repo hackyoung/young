@@ -1,0 +1,7 @@
+parent:
+	base
+method:
+	belong
+	css
+	setText
+	getText
