@@ -1,7 +1,0 @@
-parent:
-	null
-method:
-	getId
-	setId
-	generateId
-	empty

@@ -1,3 +1,0 @@
-setLeft
-setMiddle
-setRight
